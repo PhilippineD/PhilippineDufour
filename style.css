@@ -1,0 +1,110 @@
+ h1 {
+	color:  seagreen;
+	font-size: 55px;
+	font-size-adjust: inherit;
+	text-align: center;
+		font-family: Arial;
+		}
+
+h2		 {
+	color:  seagreen;
+	font-size: 20px; 
+	font-size-adjust: inherit;
+		font-family: Arial;
+		}
+
+h4		 {
+	color:  dark;
+	font-size: 15px;
+		font-family: Arial;
+		}
+
+
+h3		 {
+	color:  dark;
+	font-size: 12px;
+	font-size-adjust: inherit;
+		font-family: Arial;
+		}
+
+h5  {
+	color:  orange;
+	font-size-adjust:  initial;
+	font-size: 25px;
+	text-align: center;
+		font-family: Colibri;
+		}
+h6 {
+	color:  dark;
+	text-align: center;
+	font-weight: lighter;
+	font-size-adjust:  initial;
+	font-size: 18px;
+		font-family: Colibri;
+		}
+
+h3		 {
+	color:  dark;
+	font-size: 12px;
+	font-size-adjust: inherit;
+		font-family: Arial;
+		}
+h7 { list-style: inline; }
+
+body { background-color: ghostwhite;
+		text-align: justify;
+		text-decoration: none;
+}
+
+#logo{
+	border-radius:  100%;
+	
+ }
+div{
+	text-align: center;
+}
+
+div{
+	background: lightgrey;
+	border-radius: 10px;
+	padding: 60px;
+	margin: 60px;
+	box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
+	border: 1px solid rgba(0,0,0,0,9);
+
+}
+
+.passions{
+	background: whitesmoke;
+}
+
+ul {
+	list-style: none;
+}
+
+.orange {
+	background: orange;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+.facebook {
+	background: slateblue;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+	line-height: 10px;
+}
+
+.linkedin {
+	background: steelblue;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+	shape-margin: 10px;
+	line-height: 10px;
+}
